@@ -1,1 +1,11 @@
-
+member_id,therapeutic_class,measurement_year,covered_days,eligible_days,pdc,adherence_status
+1001,Antidiabetic,2023,361,365,0.989,ADHERENT
+1002,Antidiabetic,2023,240,365,0.658,NON-ADHERENT
+1003,Antidiabetic,2023,90,365,0.247,NON-ADHERENT
+1005,Antidiabetic,2023,354,365,0.970,ADHERENT
+1008,Antidiabetic,2023,270,365,0.740,NON-ADHERENT
+1010,Antidiabetic,2023,336,365,0.921,ADHERENT
+1012,Antidiabetic,2023,30,365,0.082,NON-ADHERENT
+1015,Antidiabetic,2023,240,365,0.658,NON-ADHERENT
+1019,Antidiabetic,2023,358,365,0.981,ADHERENT
+1021,Antidiabetic,2023,180,365,0.493,NON-ADHERENT
