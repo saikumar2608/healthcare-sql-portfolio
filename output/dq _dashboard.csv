@@ -1,0 +1,7 @@
+check_name,failed_count,status
+Claim Lines Missing Dx,7,FAIL
+Missing Eligibility,0,PASS
+Negative Paid Amount,0,PASS
+Duplicate Claim IDs,0,PASS
+Invalid Days Supply,0,PASS
+Overlapping Eligibility,0,PASS
